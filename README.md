@@ -1,4 +1,4 @@
-## Olá! Ítalo aqui 😃
+# Olá! Ítalo aqui 😃
 <div>
   <a href="https://github.com/ItaloMac/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ItaloMac&show_icons=true&theme=dracula" />
