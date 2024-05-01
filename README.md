@@ -24,3 +24,7 @@ Entusiasta da tecnologia em formação como desenvolvedor Full-Stack, iniciando 
   <img align="center" alt="Italo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Italo-VSCOde" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
+
+### Principais Repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloMac&repo=api-restful-sistema-bancario)](https://github.com/ItaloMac/api-restful-sistema-bancario)
