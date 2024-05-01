@@ -27,4 +27,4 @@ Entusiasta da tecnologia em formação como desenvolvedor Full-Stack, iniciando 
 
 ### Principais Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloMac&repo=api-restful-sistema-bancario)](https://github.com/ItaloMac/api-restful-sistema-bancario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloMac&repo=api-restful-sistema-bancario)](https://github.com/ItaloMac/api-restful-sistema-bancario&theme=dracula)
