@@ -29,3 +29,6 @@ Entusiasta da tecnologia em formação como desenvolvedor Full-Stack, iniciando 
 ### Principais Repositórios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloMac&repo=api-restful-sistema-bancario&theme=dracula)](https://github.com/ItaloMac/api-restful-sistema-bancario)
+
+<a href="https://www.linkedin.com/in/%C3%ADtalo-macedo/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30" alt="LinkedIn"></a>
+
