@@ -1,8 +1,4 @@
-# Olá, seja bem vindo(a)!
-
-Entusiasta da tecnologia em formação como desenvolvedor Full-Stack, iniciando minha jornada durante o ensino médio-técnico no IFBA e consolidando-a com a graduação em Análise e Desenvolvimento de Sistemas. Minhas experiências profissionais me proporcionaram habilidades interpessoais cruciais, e atualmente, estou me espepecializando em Back-end na Cubos Academy através de uma bolsa de estudo promovida pela escola e a ENGIE. Busco oportunidades de estágio ou posição júnior para continuar crescendo profissionalmente.
-
-##
+# Seja bem vindo(a)!
 
 <div>
   <a href="https://github.com/ItaloMac/github-readme-stats" style="display: inline-block;">
