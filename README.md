@@ -24,7 +24,7 @@
 
 ### Principais Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloMac&repo=api-restful-sistema-bancario&theme=dracula)](https://github.com/ItaloMac/ead-plataform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItaloMac&repo=ead-plataform&theme=dracula)](https://github.com/ItaloMac/ead-plataform)
 
 ### 👇🏼 Quer me conhecer mais um pouco? Confere meu Linkedin 
 <a href="https://www.linkedin.com/in/%C3%ADtalo-macedo/" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
