@@ -1,5 +1,3 @@
-# Seja bem vindo(a)!
-
 <div>
   <a href="https://github.com/ItaloMac/github-readme-stats" style="display: inline-block;">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=ItaloMac&show_icons=true&theme=dracula" />
